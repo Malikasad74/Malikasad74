@@ -4,7 +4,7 @@
 <img align="right" alt="da" width="400" src="https://img.freepik.com/premium-vector/data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825.jpg">
 <br>
 <br/>
-- 🌱 I’m currently learning ML and Deep Learning in a Data Science Area.
+- 🌱 I’m currently learning ML and Deep Learning in a Data Science.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Malikasad74](https://github.com/Malikasad74)
 
