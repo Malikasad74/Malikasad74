@@ -1,4 +1,3 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQFf6ILPTzj1UQ/profile-displaybackgroundimage-shrink_350_1400/0/1711043333055?e=1720051200&v=beta&t=2w2rKziEkBoamarfJOMczG5SySO49XReBrgqqejhZGA)
 <h1 align="center">Hi 👋, I'm Asad Malik</h1>
 <h3 align="left">A passionate Data Science enthusiast and Google Certified Professional Data Analyst from India.</h3>
 <br>
