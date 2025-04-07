@@ -17,17 +17,17 @@
 <p align="left">
   <!-- Flutter Logo -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flutter_logo_2021.svg" alt="flutter" width="50" height="50"/>
   </a>
   
   <!-- Dart Logo -->
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Dart-logo.svg" alt="dart" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dart-logo.png" alt="dart" width="50" height="50"/>
   </a>
   
   <!-- Firebase Logo -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Firebase_Logo_2016.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Firebase_Logo_2016.svg" alt="firebase" width="50" height="50"/>
   </a>
 
   <!-- Data Science Logos -->
@@ -60,8 +60,4 @@
   I’m continuously learning new ways to enhance my mobile development skills with **Flutter** and aiming to build more amazing apps that users love to interact with.
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikasad74&show_icons=true&locale=en&layout=compact" alt="malikasad74" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikasad74&show_icons=true&locale=en" alt="malikasad74" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikasad74&" alt="malikasad74" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikasad74&show_icons=true&locale=en&layout=compact" alt="malikasad74" /></
