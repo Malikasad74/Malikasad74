@@ -17,22 +17,22 @@
 <p align="left">
   <!-- Flutter Logo -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/512/flutter.png" alt="flutter" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flutter_logo_2021.svg" alt="flutter" width="50" height="50"/>
   </a>
   
   <!-- Dart Logo -->
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/106/833/png-transparent-dart-logo-programming-language-computer-programming-android-text-logo-computer-programming.png" alt="dart" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dart-logo.png" alt="dart" width="50" height="50"/>
   </a>
   
   <!-- Firebase Logo -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle.png" alt="firebase" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Firebase_Logo_2016.svg" alt="firebase" width="50" height="50"/>
   </a>
 
   <!-- Data Science Logos -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -47,17 +47,40 @@
 
 <h3 align="left">About Flutter:</h3>
 <p align="left">
-  Flutter is an open-source UI software development kit created by Google. It is used for developing cross-platform mobile applications from a single codebase. Whether you’re building for Android, iOS, or the web, Flutter provides a seamless development experience with high-performance rendering and customizable widgets. 
-  <br/><br/>
-  With **Flutter**, I am able to create beautiful and responsive applications, thanks to its powerful toolkit, which includes widgets, animation libraries, and a strong community-driven ecosystem. I love using **Dart** (the programming language for Flutter) for its modern, clean syntax and powerful features that help developers stay productive.
-  <br/><br/>
-  Some of the benefits of using Flutter include:
-  - Hot reload for quick UI updates
-  - Native performance on both Android and iOS
-  - A rich set of pre-designed widgets
-  - Strong support for state management
-  <br/><br/>
-  I’m continuously learning new ways to enhance my mobile development skills with **Flutter** and aiming to build more amazing apps that users love to interact with.
+  Flutter is an open-source UI software development kit created by Google. It allows developers to create beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. 🚀 With Flutter, I have been able to develop high-quality, performant apps that users love to interact with, regardless of the platform.
+
+  <br><br>
+  One of the key features that sets **Flutter** apart is its **Hot Reload** feature, which enables quick iteration while building UI, making it an incredibly productive framework for mobile developers. 🚧
+
+  <br><br>
+  Another amazing benefit is the **rich set of customizable widgets** that allow for highly responsive and engaging user interfaces. Whether you're building for **Android**, **iOS**, or even the **web**, **Flutter** makes it easy to create beautiful apps with minimal effort.
+
+  <br><br>
+  A key reason I love Flutter is its seamless integration with **Firebase** for backend services like authentication, real-time database, and cloud storage. With its integration into the Google ecosystem, it allows for a **full-stack mobile development experience** that is both easy and efficient. 💻
+
+  <br><br>
+  I am continuously diving deeper into **Flutter**'s capabilities and learning new techniques to craft apps that not only perform excellently but also provide an amazing user experience. Stay tuned for more exciting projects! 💡
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikasad74&show_icons=true&locale=en&layout=compact" alt="malikasad74" /></
+<h3 align="left">About Data Science:</h3>
+<p align="left">
+  Data Science is a fascinating field that involves extracting meaningful insights from structured and unstructured data using advanced algorithms and statistical models. As someone who loves to work with data, I’m constantly diving into this field to understand the relationships between variables and build predictive models. 📊🔍
+
+  <br><br>
+  My journey into Data Science started with **Python**, a language known for its simplicity and power. I started learning libraries such as **Pandas**, **NumPy**, and **Matplotlib** for data manipulation and visualization. Then, I moved on to more advanced tools like **Scikit-learn**, **TensorFlow**, and **Keras** for machine learning and deep learning models.
+
+  <br><br>
+  The real magic happens when you apply machine learning models to real-world problems. By using these models, I’ve been able to work on projects ranging from predictive analytics to natural language processing (NLP), and even computer vision. 🤖
+
+  <br><br>
+  Data Science is about continuously experimenting and learning from the data, understanding what works and what doesn't. It is an incredibly **rewarding field** where every problem can be approached with a fresh perspective, and **insights can change the world**.
+
+  <br><br>
+  I'm excited to apply my knowledge in Data Science to future projects and explore how data-driven insights can lead to more impactful decision-making in every domain. 🌍
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikasad74&show_icons=true&locale=en&layout=compact" alt="malikasad74" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikasad74&show_icons=true&locale=en" alt="malikasad74" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikasad74&" alt="malikasad74" /></p>
