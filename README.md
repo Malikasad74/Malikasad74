@@ -17,7 +17,7 @@
 <p align="left">
   <!-- Flutter Logo -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" alt="flutter" width="50" height="50"/>
+    <img src="https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png" alt="flutter" width="50" height="50"/>
   </a>
   
   <!-- Dart Logo -->
