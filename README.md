@@ -22,12 +22,12 @@
   
   <!-- Dart Logo -->
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dart-logo.png" alt="dart" width="50" height="50"/>
+    <img src="https://e7.pngegg.com/pngimages/678/747/png-clipart-dart-logo-thumbnail-tech-companies.png" alt="dart" width="50" height="50"/>
   </a>
   
   <!-- Firebase Logo -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Firebase_Logo_2016.svg" alt="firebase" width="50" height="50"/>
+    <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="50" height="50"/>
   </a>
 
   <!-- Data Science Logos -->
