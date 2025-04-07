@@ -22,7 +22,7 @@
   
   <!-- Dart Logo -->
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn3d.iconscout.com/3d/free/preview/free-dart-3d-icon-download-in-png-blend-fbx-gltf-file-formats--android-logo-google-flutter-coding-lang-pack-logos-icons-7578014.png?f=webp&h=700" alt="dart" width="50" height="50"/>
+    <img src="https://w7.pngwing.com/pngs/106/833/png-transparent-dart-logo-programming-language-computer-programming-android-text-logo-computer-programming.png" alt="dart" width="50" height="50"/>
   </a>
   
   <!-- Firebase Logo -->
