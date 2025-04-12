@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Flutter Developer and Data Science Enthusiast from India.</h3>
 <br>
 <br/>
-- 🌱 I’m currently focused on building mobile applications using **Flutter** and exploring **Data Science**.
+- 🌱 I’m currently focused on building mobile applications using Flutter and exploring Data Science.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Malikasad74](https://github.com/Malikasad74)
 
