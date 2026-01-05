@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B4D8&height=230&section=header&text=Asad%20Malik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="assets/github_banner" width="100%" />
 </p>
 
 <h3 align="center">
