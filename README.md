@@ -89,6 +89,8 @@ Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL 
 ---
 
 ### 🧑‍💼 HR Analytics Dashboard — Power BI
+🔗 https://github.com/Malikasad74/HRAnalysis.git
+
 <img src="assets/HRD.png" width="100%" />
 
 - Attrition rate (16%)
@@ -127,7 +129,9 @@ Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikasad74&show_icons=true&theme=default&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Malikasad74&show_icons=true&hide_border=true"
+  />
 </p>
 
 <p align="center">
