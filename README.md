@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="assets/github_banner" width="100%" />
+  <img src="assets/github_banner.png" width="100%" />
 </p>
 
 <h3 align="center">
