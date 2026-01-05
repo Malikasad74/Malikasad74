@@ -44,6 +44,19 @@ I am a **Data Analyst & Power BI Developer with 1+ year of hands-on experience**
 - Improved reporting accuracy by **40%+**
 - Enabled **45% faster decision-making**
 
+Tech Stack: Power BI, DAX, Power Query, SQL, Python, Excel, MongoDB
+
+---
+
+### 📊 **Data Visualization Intern — Cognifyz Technologies**
+📍 Remote | 🗓️ Apr 2024 – May 2024
+
+- Transformed raw, complex datasets into insight-driven dashboards using advanced Excel functions, pivot tables, and data cleaning techniques.
+- Analyzed trends, identified patterns, and highlighted key business insights for decision-making.
+- Applied chart design and visualization best practices to deliver professional, executive-ready reports.
+
+Tools: Excel, Pivot Tables, Data Cleaning, Dashboard Design
+
 ---
 
 ### 🧑‍💼 **Power BI Developer Intern — Psyliq**  
@@ -53,6 +66,8 @@ I am a **Data Analyst & Power BI Developer with 1+ year of hands-on experience**
 - Attrition, salary band, age & department analysis
 - Improved dashboard performance by **30%**
 - Increased report adoption by **45%**
+
+Tools: Power BI, DAX, Data Modeling, Data Cleaning
 
 ---
 
