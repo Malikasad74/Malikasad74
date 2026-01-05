@@ -147,7 +147,7 @@ Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL 
 
 ### 📊 Advanced Data Science & Analytics Mentorship (Pregrad)  
 <p align="center">
-  <img src="assets/Certificates/Pregrad%20Data%20Science.png" width="350">
+  <img src="assets/Certificates/pregrad.png" width="350">
 </p>
 
 ---
