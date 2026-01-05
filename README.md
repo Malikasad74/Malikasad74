@@ -76,7 +76,10 @@ Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL 
 ## 🔥 Power BI & Analytics Projects (With Dashboards)
 
 ### 🏥 Healthcare Analytics Dashboard — Power BI
-<img src="https://raw.githubusercontent.com/Malikasad74/Malikasad74/main/assets/healthcare_dashboard.png" width="100%"/>
+<img src="assets/NKB_1.png" width="100%" />
+<img src="assets/NKB_2.png" width="100%" />
+<img src="assets/NKB_3.png" width="100%" />
+
 
 - 215K+ patient records | 7+ districts
 - Disease trends, age/gender, insurance coverage
@@ -86,7 +89,7 @@ Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL 
 ---
 
 ### 🧑‍💼 HR Analytics Dashboard — Power BI
-<img src="https://raw.githubusercontent.com/Malikasad74/Malikasad74/main/assets/hr_dashboard.png" width="100%"/>
+<img src="assets/HRD.png" width="100%" />
 
 - Attrition rate (16%)
 - Department & salary analysis
@@ -97,7 +100,7 @@ Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL 
 ### 🏠 Housing Sales Dashboard — Tableau  
 🔗 https://github.com/Malikasad74/HousingSalesTableau
 
-<img src="https://raw.githubusercontent.com/Malikasad74/Malikasad74/main/assets/housing_dashboard.png" width="100%"/>
+<img src="assets/HSD.png" width="100%" />
 
 - 21K+ housing transactions
 - Price trends, heatmaps, filters
