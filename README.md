@@ -130,7 +130,7 @@ Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL 
 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Malikasad74&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Malikasad74&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
