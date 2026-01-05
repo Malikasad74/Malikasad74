@@ -8,27 +8,29 @@
 </h3>
 
 <p align="center">
-Turning raw data into meaningful business insights 🚀
+Turning raw data into actionable business insights 🚀
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎯 **Data Analyst & Power BI Developer** with hands-on experience in dashboards, MIS reports, and business analytics  
-- 📊 Skilled in **Power BI, SQL, Excel, Python**, and data visualization  
-- 🏥 Worked on **Healthcare & HR analytics projects** with large datasets  
-- 🌱 Currently enhancing skills in **Advanced Power BI, DAX, and Data Science**
-- 👨‍💻 All projects: **[github.com/Malikasad74](https://github.com/Malikasad74)**
-- 📫 Reach me at: **asadmalik1011@gmail.com**
+I am a **Data Analyst and Power BI Developer** with strong foundations in **Data Science, SQL, and Python**, experienced in transforming large and complex datasets into **interactive dashboards and decision-ready insights**.
+
+- 📊 Expertise in **Power BI, DAX, Power Query, SQL, Excel**
+- 🏥 Hands-on experience in **Healthcare & HR Analytics**
+- 📈 Built dashboards handling **215K+ records** across multiple domains
+- 🌱 Currently improving skills in **Advanced DAX, Data Modeling & Analytics**
+- 👨‍💻 GitHub: **[github.com/Malikasad74](https://github.com/Malikasad74)**
+- 📫 Email: **asadmalik1011@gmail.com**
 
 ---
 
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/asad-malik" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://linkedin.com/in/asadmalik10" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
 
@@ -38,96 +40,96 @@ Turning raw data into meaningful business insights 🚀
 
 <p align="left">
 
-<!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50"/>
-</a>
-
-<!-- Excel -->
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45"/>
-</a>
-
-<!-- SQL -->
-<a href="#">
-  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="45" height="45"/>
-</a>
-
-<!-- Python -->
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
-
-<!-- Pandas -->
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-</a>
-
-<!-- NumPy -->
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
-</a>
-
-<!-- Tableau -->
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45"/>
-</a>
-
-<!-- Power BI Service -->
-<a href="#">
-  <img src="https://cdn-icons-png.flaticon.com/512/6039/6039973.png" width="45" height="45"/>
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" title="Power BI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" title="Excel"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="40" title="SQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
 
 </p>
 
 ---
 
-## 📊 About Power BI & Data Analytics
+## 🔥 Power BI & Analytics Project Showcase
 
-Power BI is a powerful business intelligence tool that enables organizations to **transform raw data into interactive dashboards and decision-ready insights**.
+### 🏥 Healthcare Analytics Dashboard (Power BI)
+**Tech:** Power BI · DAX · Power Query · MongoDB · Star Schema  
 
-🔹 I specialize in:
-- Data cleaning & transformation using **Power Query**
-- Building optimized **data models**
-- Writing efficient **DAX measures**
-- Designing **executive-level dashboards**
-- Automating **MIS & KPI reports**
-
-💡 I focus on **clarity, performance, and business impact**, ensuring stakeholders can make faster and smarter decisions.
-
----
-
-## 🧠 About Data Science
-
-Data Science allows us to uncover **patterns, trends, and predictions** hidden inside data.
-
-📌 My workflow includes:
-- Data preprocessing using **Pandas & NumPy**
-- Exploratory Data Analysis (EDA)
-- Statistical insights & trend analysis
-- Machine learning fundamentals with **Scikit-learn**
-- Real-world datasets from **healthcare & business domains**
-
-I strongly believe that **data-driven decision-making** is the backbone of modern organizations 🌍
+- Transformed **215K+ patient records** from **7+ districts** into interactive dashboards  
+- Automated ETL for **30K+ monthly records**, improving data quality by **38%**  
+- Built analytics on:
+  - Age & gender distribution  
+  - 12+ high-risk diseases  
+  - Medication frequency (10K–100K scale)  
+  - Insurance coverage across **10 providers**
+- Enabled **45% faster decision-making** for healthcare stakeholders
 
 ---
 
-## 📈 GitHub Analytics
+### 🧑‍💼 HR Analytics Dashboard (Power BI)
+**Tech:** Power BI · DAX · Power Query · SQL  
+
+- Analyzed **1,470+ employee records**
+- Delivered insights on:
+  - Attrition rate (**16%**)
+  - Department distribution (R&D, Sales)
+  - Job satisfaction & education background
+- Improved dashboard performance by **30%**
+- Increased report adoption by **45%**
+
+---
+
+### 🏠 Housing Sales Dashboard (Tableau)
+🔗 https://github.com/Malikasad74/HousingSalesTableau  
+
+- Analyzed **21K+ real-estate transactions**
+- Built interactive filters for:
+  - Price
+  - Square footage
+  - Construction year
+- Used KPIs & heatmaps to improve insight discovery by **45%**
+
+---
+
+### 🛒 E-Commerce Purchase Behavior Analysis (Python)
+🔗 https://github.com/Malikasad74/Ecommerce-Purchases-EDA-Project  
+
+- Performed EDA on **10,000+ transactions**
+- Identified:
+  - 405 high-value Mastercard customers
+  - 1,097 French-language buyers
+  - Time-based purchasing trends
+- Improved customer segmentation accuracy by **42%**
+
+---
+
+## 📂 Pinned Projects
+
+📌 **Healthcare Analytics Dashboard – Power BI**  
+📌 **HR Analytics Dashboard – Power BI**  
+📌 **Housing Sales Dashboard – Tableau**  
+📌 **E-Commerce EDA – Python**
+
+---
+
+## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikasad74&show_icons=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikasad74&layout=compact&show_icons=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikasad74&show_icons=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=malikasad74&show_icons=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikasad74" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malikasad74"/>
 </p>
 
 ---
 
 <p align="center">
-  🚀 <b>Always learning | Always improving | Data tells a story — I help it speak</b>
+<b>📊 Data tells a story — I help it speak.</b>
 </p>
