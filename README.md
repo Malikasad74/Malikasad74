@@ -71,7 +71,7 @@ Tools: Power BI, DAX, Data Modeling, Data Cleaning
 
 ---
 
-## 🛠️ Skills & Tools (Recruiter Keywords)
+## 🛠️ Skills & Tools
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42"/>
