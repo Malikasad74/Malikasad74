@@ -1,135 +1,138 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B4D8&height=220&section=header&text=Hi%20👋%20I'm%20Asad%20Malik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B4D8&height=230&section=header&text=Asad%20Malik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h3 align="center">
-📊 Data Analyst | 📈 Power BI Developer | 🧠 Data Science Enthusiast
+📊 Data Analyst | 📈 Power BI Developer | 🧠 Data Science Professional
 </h3>
 
 <p align="center">
-Turning raw data into actionable business insights 🚀
+<strong>1+ Year Experience • Power BI • SQL • Python • Business Intelligence</strong>
+</p>
+
+<p align="center">
+Turning complex data into clear, decision-ready insights 🚀
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I am a **Data Analyst and Power BI Developer** with strong foundations in **Data Science, SQL, and Python**, experienced in transforming large and complex datasets into **interactive dashboards and decision-ready insights**.
+I am a **Data Analyst & Power BI Developer with 1+ year of hands-on experience**, specializing in **dashboard development, data modeling, ETL pipelines, and business analytics**. I have worked on **real-world healthcare and HR analytics projects**, delivering measurable business impact.
 
-- 📊 Expertise in **Power BI, DAX, Power Query, SQL, Excel**
-- 🏥 Hands-on experience in **Healthcare & HR Analytics**
-- 📈 Built dashboards handling **215K+ records** across multiple domains
-- 🌱 Currently improving skills in **Advanced DAX, Data Modeling & Analytics**
-- 👨‍💻 GitHub: **[github.com/Malikasad74](https://github.com/Malikasad74)**
-- 📫 Email: **asadmalik1011@gmail.com**
+- 📊 Power BI | DAX | Power Query | SQL | Excel
+- 🏥 Healthcare Analytics (215K+ records)
+- 🧑‍💼 HR & Workforce Analytics
+- 📈 KPI Dashboards | MIS Reporting | Data Storytelling
+- 📍 India | Open to Data Analyst / Power BI Developer roles
 
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/asadmalik10" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
+📧 **Email:** asadmalik1011@gmail.com  
+🔗 **GitHub:** https://github.com/Malikasad74  
 
 ---
 
-## 🛠️ Languages & Tools (Data Analytics Stack)
+## 🏢 Experience
 
-<p align="left">
+### 🏥 **Power BI Developer — Noorisys Technologies**  
+📍 Nashik, India | 🗓️ **May 2025 – Sep 2025**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" title="Power BI"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" title="Excel"/>
-<img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="40" title="SQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
-
-</p>
+- Built a **Healthcare Analytics Platform** for *Nakbho Healthcare (Zimbabwe)*
+- Transformed **215,000+ patient records** across **7+ districts**
+- Designed **star-schema data models** & optimized DAX
+- Automated ETL for **30K+ monthly records**
+- Improved reporting accuracy by **40%+**
+- Enabled **45% faster decision-making**
 
 ---
 
-## 🔥 Power BI & Analytics Project Showcase
+### 🧑‍💼 **Power BI Developer Intern — Psyliq**  
+📍 Remote | 🗓️ **Jan 2024 – Mar 2024**
 
-### 🏥 Healthcare Analytics Dashboard (Power BI)
-**Tech:** Power BI · DAX · Power Query · MongoDB · Star Schema  
-
-- Transformed **215K+ patient records** from **7+ districts** into interactive dashboards  
-- Automated ETL for **30K+ monthly records**, improving data quality by **38%**  
-- Built analytics on:
-  - Age & gender distribution  
-  - 12+ high-risk diseases  
-  - Medication frequency (10K–100K scale)  
-  - Insurance coverage across **10 providers**
-- Enabled **45% faster decision-making** for healthcare stakeholders
-
----
-
-### 🧑‍💼 HR Analytics Dashboard (Power BI)
-**Tech:** Power BI · DAX · Power Query · SQL  
-
-- Analyzed **1,470+ employee records**
-- Delivered insights on:
-  - Attrition rate (**16%**)
-  - Department distribution (R&D, Sales)
-  - Job satisfaction & education background
+- Developed HR dashboards on **1,470+ employee records**
+- Attrition, salary band, age & department analysis
 - Improved dashboard performance by **30%**
 - Increased report adoption by **45%**
 
 ---
 
-### 🏠 Housing Sales Dashboard (Tableau)
-🔗 https://github.com/Malikasad74/HousingSalesTableau  
+## 🛠️ Skills & Tools (Recruiter Keywords)
 
-- Analyzed **21K+ real-estate transactions**
-- Built interactive filters for:
-  - Price
-  - Square footage
-  - Construction year
-- Used KPIs & heatmaps to improve insight discovery by **45%**
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="38"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="38"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="38"/>
+</p>
 
----
-
-### 🛒 E-Commerce Purchase Behavior Analysis (Python)
-🔗 https://github.com/Malikasad74/Ecommerce-Purchases-EDA-Project  
-
-- Performed EDA on **10,000+ transactions**
-- Identified:
-  - 405 high-value Mastercard customers
-  - 1,097 French-language buyers
-  - Time-based purchasing trends
-- Improved customer segmentation accuracy by **42%**
+**Core Keywords:**  
+Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL · Data Modeling · Dashboarding · MIS · Healthcare Analytics · HR Analytics · Business Intelligence
 
 ---
 
-## 📂 Pinned Projects
+## 🔥 Power BI & Analytics Projects (With Dashboards)
 
-📌 **Healthcare Analytics Dashboard – Power BI**  
-📌 **HR Analytics Dashboard – Power BI**  
-📌 **Housing Sales Dashboard – Tableau**  
-📌 **E-Commerce EDA – Python**
+### 🏥 Healthcare Analytics Dashboard — Power BI
+<img src="https://raw.githubusercontent.com/Malikasad74/Malikasad74/main/assets/healthcare_dashboard.png" width="100%"/>
+
+- 215K+ patient records | 7+ districts
+- Disease trends, age/gender, insurance coverage
+- Medication frequency (10K–100K scale)
+- Public health KPI reporting
+
+---
+
+### 🧑‍💼 HR Analytics Dashboard — Power BI
+<img src="https://raw.githubusercontent.com/Malikasad74/Malikasad74/main/assets/hr_dashboard.png" width="100%"/>
+
+- Attrition rate (16%)
+- Department & salary analysis
+- Job satisfaction & workforce insights
+
+---
+
+### 🏠 Housing Sales Dashboard — Tableau  
+🔗 https://github.com/Malikasad74/HousingSalesTableau
+
+<img src="https://raw.githubusercontent.com/Malikasad74/Malikasad74/main/assets/housing_dashboard.png" width="100%"/>
+
+- 21K+ housing transactions
+- Price trends, heatmaps, filters
+
+---
+
+### 🛒 E-Commerce Purchase Behavior — Python  
+🔗 https://github.com/Malikasad74/Ecommerce-Purchases-EDA-Project
+
+- 10K+ transactions
+- Customer segmentation & trends
+- Payment & language-based insights
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Google Data Analytics Professional Certificate**
+- ☁️ **Google Cloud Challenge Champion**
+- 📊 **Advanced Data Science & Analytics Mentorship (Pregrad)**
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikasad74&layout=compact&show_icons=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malikasad74&show_icons=true&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=malikasad74&show_icons=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=malikasad74"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikasad74&theme=default&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-<b>📊 Data tells a story — I help it speak.</b>
+<b>📊 Data tells a story — I turn it into decisions.</b>
 </p>
