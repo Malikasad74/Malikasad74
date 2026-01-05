@@ -136,25 +136,25 @@ Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL 
 ## 📜 Certifications
 
 - 🎓 **Google Data Analytics Professional Certificate**  
-<img src="Malikasad74/assets/Certificates/GoogleDataAnalytics.jpeg" width="300">
+<img src="assets/Certificates/GoogleDataAnalytics.jpeg" width="300">
 
 - 📊 **Advanced Data Science & Analytics Mentorship (Pregrad) Certificate**  
-<img src="Malikasad74/assets/Certificates/PregradDataScience.png" width="300">
+<img src="assets/Certificates/Pregrad%20Data%20Science.png" width="300">
 
 - 📊 **Career Essentials in Data Analysis by Microsoft and LinkedIn Certificate**  
-<img src="Malikasad74/assets/Certificates/data_linkedin.png" width="300">
+<img src="assets/Certificates/data_linkedin.png" width="300">
 
 - 📊 **Microsoft Data Modeling in Power BI Certificate**  
-<img src="Malikasad74/assets/Certificates/data_model.png" width="300">
+<img src="assets/Certificates/data_model.png" width="300">
 
 - 📊 **Udemy Microsoft Excel for Data Analysis Certificate**  
-<img src="Malikasad74/assets/Certificates/ms_excel.png" width="300">
+<img src="assets/Certificates/ms_excel.png" width="300">
 
 - 📊 **UC DAVIS SQL for Data Science Certificate**  
-<img src="Malikasad74/assets/Certificates/sql.png" width="300">
+<img src="assets/Certificates/sql.png" width="300">
 
 - 📊 **Great Learning Python for Data Analysis Certificate**  
-<img src="Malikasad74/assets/Certificates/data_python.png" width="300">
+<img src="assets/Certificates/data_python.png" width="300">
 
 
 ---
