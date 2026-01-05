@@ -135,9 +135,8 @@ Power BI Developer · Data Analyst · DAX · SQL · Excel · Power Query · ETL 
 
 ## 📜 Certifications & Professional Learning
 
-> 📌 *Continuous learning to strengthen data-driven decision-making, analytics, and business intelligence skills.*
+ 📌 *Continuous learning to strengthen data-driven decision-making, analytics, and business intelligence skills.*
 
----
 
 ### 🎓 Google Data Analytics Professional Certificate  
 <p align="center">
