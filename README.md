@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-<strong>1+ Year Experience • Power BI • SQL • Python • Business Intelligence</strong>
+<strong>1 Year Experience • Power BI • SQL • Python • Business Intelligence</strong>
 </p>
 
 <p align="center">
